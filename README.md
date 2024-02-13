@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="resources/mmdet-logo.png" width="600"/>
-  <div>&nbsp;</div>
+#Spatio-temporal object detection; feature fusion; spatio-temporal attention
   <div align="center">
     <b><font size="5">OpenMMLab website</font></b>
     <sup>
