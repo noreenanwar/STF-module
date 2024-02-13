@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/model_2.png" width="600"/>
+  <img src="resources/mmdet-logo.png" width="600"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">OpenMMLab website</font></b>
@@ -17,7 +17,9 @@
     </sup>
   </div>
   <div>&nbsp;</div>
-
+<div align="center">
+  <img src="docs/model_2.png" width="600"/>
+  <div>&nbsp;</div>
 [![PyPI](https://img.shields.io/pypi/v/mmdet)](https://pypi.org/project/mmdet)
 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://mmdetection.readthedocs.io/en/latest/)
 [![badge](https://github.com/open-mmlab/mmdetection/workflows/build/badge.svg)](https://github.com/open-mmlab/mmdetection/actions)
