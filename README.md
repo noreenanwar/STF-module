@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="resources/mmdet-logo.png" width="600"/>
+  <img src="docs/model_2.png" width="600"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">OpenMMLab website</font></b>
