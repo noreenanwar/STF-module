@@ -87,7 +87,7 @@ These are the results on Cityscape, KITTI (MOT) and UAVDT.
   <div>&nbsp;</div>
   <img src="docs/outputs.png" width="600"/>
   <div>&nbsp;</div>
-  The graph for  training loss wrt to Cityscape dataset is as below:
+  The graph for  training loss wrt to the Cityscapes dataset is as below:
  </div>
   <div>&nbsp;</div>
   <img src="docs/graph.png" width="400"/>
