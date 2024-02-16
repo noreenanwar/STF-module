@@ -88,7 +88,10 @@ These are the results on Cityscape, KITTI (MOT) and UAVDT.
 <div align="center">
   <img src="docs/outputs.png" width="600"/>
   <div>&nbsp;</div>
-
+ </div>
+  <div>&nbsp;</div>
+  <img src="docs/graph.png" width="600"/>
+  <div>&nbsp;</div>
 ## FAQ
 Please refer to [FAQ](docs/en/notes/faq.md) for frequently asked questions.
 ## Acknowledgement
