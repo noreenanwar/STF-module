@@ -51,7 +51,7 @@ Please see [Overview](https://mmdetection.readthedocs.io/en/latest/get_started.h
 You need to follow the steps defined in the docs.
 To train the model, use the following command:
 
-```bash
+
 python tools/train configs/centernet/hrnet.py 
 
 For detailed user guides and advanced guides, please refer to our [documentation](https://mmdetection.readthedocs.io/en/latest/):
@@ -71,7 +71,7 @@ For detailed user guides and advanced guides, please refer to our [documentation
     - [Finetuning Models](https://mmdetection.readthedocs.io/en/latest/user_guides/finetune.html)
     - [Test Results Submission](https://mmdetection.readthedocs.io/en/latest/user_guides/test_results_submission.html)
     - [Weight initialization](https://mmdetection.readthedocs.io/en/latest/user_guides/init_cfg.html)
-    - [Use a single stage detector as RPN](https://mmdetection.readthedocs.io/en/latest/user_guides/single_stage_as_rpn.html)
+    - [Use a single-stage detector as RPN](https://mmdetection.readthedocs.io/en/latest/user_guides/single_stage_as_rpn.html)
     - [Semi-supervised Object Detection](https://mmdetection.readthedocs.io/en/latest/user_guides/semi_det.html)
   - [Useful Tools](https://mmdetection.readthedocs.io/en/latest/user_guides/index.html#useful-tools)
 
