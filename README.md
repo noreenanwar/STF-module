@@ -85,12 +85,12 @@ In this repo, we used the following datasets:
 These are the results on Cityscape, KITTI (MOT) and UAVDT.
  </div>
   <div>&nbsp;</div>
-<div align="center">
   <img src="docs/outputs.png" width="600"/>
   <div>&nbsp;</div>
+  The graph for  training loss wrt to Cityscape dataset is as below:
  </div>
   <div>&nbsp;</div>
-  <img src="docs/graph.png" width="600"/>
+  <img src="docs/graph.png" width="400"/>
   <div>&nbsp;</div>
 ## FAQ
 Please refer to [FAQ](docs/en/notes/faq.md) for frequently asked questions.
