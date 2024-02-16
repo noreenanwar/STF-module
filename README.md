@@ -97,7 +97,7 @@ Please refer to [FAQ](docs/en/notes/faq.md) for frequently asked questions.
 
 
 ## Acknowledgement
-
+We acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), [funding reference number RGPIN-2020-04633].
 
 ## Citation
 
