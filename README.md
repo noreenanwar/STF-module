@@ -1,4 +1,4 @@
-# **Spatio-temporal object detection; feature fusion; spatio-temporal attention**
+# **STF: Spatio-Temporal Fusion Module for Improving Video Object Detection **
 
   <div align="center">
     <b><font size="5">OpenMMLab website</font></b>
