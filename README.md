@@ -82,7 +82,7 @@ In this repo, we used the following datasets:
 2) [Cityscapes Dataset](https://www.cityscapes-dataset.com/benchmarks/#instance-level-scene-labeling-task)
 3) [UAVDT Dataset](https://sites.google.com/view/daweidu/projects/uavdt)
 ## Results
-These are the results on Cityscape,KITTI (MOT) and UAVDT.
+These are the results on Cityscape, KITTI (MOT) and UAVDT.
  </div>
   <div>&nbsp;</div>
 <div align="center">
