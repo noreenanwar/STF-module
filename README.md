@@ -36,7 +36,7 @@ English | [简体中文](README_zh-CN.md)
 
 ## Introduction
 
-STF module is the Fusion Module for Improving Video Object Detection is a part of the [OpenMMLab](https://openmmlab.com/) project.
+STF module is the Fusion Module for Improving Video Object Detection and it is a part of the [OpenMMLab](https://openmmlab.com/) project.
 
 The main branch works with **PyTorch 1.8+**.
 
@@ -82,30 +82,21 @@ In this repo, we used the following datasets:
 2) [Cityscapes Dataset](https://www.cityscapes-dataset.com/benchmarks/#instance-level-scene-labeling-task)
 3) [UAVDT Dataset](https://sites.google.com/view/daweidu/projects/uavdt)
 ## Results
+These are the results on Cityscape,KITTI (MOT) and UAVDT.
  </div>
   <div>&nbsp;</div>
 <div align="center">
   <img src="docs/outputs.png" width="600"/>
   <div>&nbsp;</div>
 
-  ## FAQ
-
+## FAQ
 Please refer to [FAQ](docs/en/notes/faq.md) for frequently asked questions.
-
-## Contributing
-
-
-
 ## Acknowledgement
-We acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), [funding reference number RGPIN-2020-04633].
+We acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC),[funding reference number RGPIN-2020-04633].
 
 ## Citation
+If you use this module in your research, please cite this project.
 
-If you use this toolbox or benchmark in your research, please cite this project.
-
-```
-
-```
 
 ## License
 
