@@ -49,6 +49,7 @@ Please refer to [Installation](https://mmdetection.readthedocs.io/en/latest/get_
 
 Please see [Overview](https://mmdetection.readthedocs.io/en/latest/get_started.html) for the general introduction of MMDetection.
 You need to follow the steps defined in the docs.
+
 To train the model, use the following command:
 
  ```bash
