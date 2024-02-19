@@ -109,6 +109,7 @@ We acknowledge the support of the Natural Sciences and Engineering Research Coun
 ## Citation
 
 If you use this module in your research, please cite this project.
+(https://arxiv.org/abs/2402.10752)
 
 
 ## License
