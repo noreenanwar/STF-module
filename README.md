@@ -51,9 +51,9 @@ Please see [Overview](https://mmdetection.readthedocs.io/en/latest/get_started.h
 You need to follow the steps defined in the docs.
 To train the model, use the following command:
 
-
+...bash
 python tools/train configs/centernet/hrnet.py 
-
+...
 For detailed user guides and advanced guides, please refer to our [documentation](https://mmdetection.readthedocs.io/en/latest/):
 
 - User Guides
