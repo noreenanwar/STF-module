@@ -47,13 +47,14 @@ Please refer to [Installation](https://mmdetection.readthedocs.io/en/latest/get_
 
 ## Getting Started
 
-Please see [Overview](https://mmdetection.readthedocs.io/en/latest/get_started.html) for the general introduction of MMDetection.
-You need to follow the steps defined in the docs.
+Please see [Overview](https://mmdetection.readthedocs.io/en/latest/get_started.html) for the general introduction of MMDetection. You need to follow the steps defined in the docs.
 
 To train the model, use the following command:
-...bash
+
+```bash
 python tools/train configs/centernet/hrnet.py
 ...
+
 For detailed user guides and advanced guides, please refer to our [documentation](https://mmdetection.readthedocs.io/en/latest/):
 
 - User Guides
