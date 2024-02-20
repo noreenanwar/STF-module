@@ -54,7 +54,6 @@ To train the model, use the following command:
 ```bash
 python tools/train configs/centernet/hrnet.py
 
-
 For detailed user guides and advanced guides, please refer to our [documentation](https://mmdetection.readthedocs.io/en/latest/):
 
 - User Guides
